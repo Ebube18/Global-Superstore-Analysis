@@ -1,8 +1,6 @@
 # Global-Superstore-Analysis
 
 ![Intro_image](https://github.com/user-attachments/assets/1f580f8e-9785-4c46-99bd-58867c6c71f0)
-![Intro_image](https://github.com/user-attachments/assets/03f922e1-5867-4985-8aa6-436aa505857c)
-
 
 ## Introductiom
 
