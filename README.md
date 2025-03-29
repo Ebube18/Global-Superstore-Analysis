@@ -1,6 +1,8 @@
 # Global-Superstore-Analysis
 
-![image alt](https://github.com/Ebube18/Global-Superstore-Analysis/blob/35ae8e2a34799262f1e4cf2a1a26754a81866dff/Intro_image.JPG)
+![Intro_image](https://github.com/user-attachments/assets/1f580f8e-9785-4c46-99bd-58867c6c71f0)
+![Intro_image](https://github.com/user-attachments/assets/03f922e1-5867-4985-8aa6-436aa505857c)
+
 
 ## Introductiom
 
